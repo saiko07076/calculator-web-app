@@ -18,7 +18,7 @@ It performs basic arithmetic operations like Addition, Subtraction, Multiplicati
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 ---
 
 ## Tech Used
