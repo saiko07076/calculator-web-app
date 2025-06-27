@@ -16,7 +16,7 @@ It performs basic arithmetic operations like Addition, Subtraction, Multiplicati
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png) <!-- You can take a screenshot and upload it later -->
+screenshot.png<!-- You can take a screenshot and upload it later -->
 
 ---
 
