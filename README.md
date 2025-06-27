@@ -16,8 +16,9 @@ It performs basic arithmetic operations like Addition, Subtraction, Multiplicati
 
 ## Screenshot
 
-screenshot.png<!-- You can take a screenshot and upload it later -->
+## 📸 Screenshot
 
+![Screenshot](screenshot.png)
 ---
 
 ## Tech Used
